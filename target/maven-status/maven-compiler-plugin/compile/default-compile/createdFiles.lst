@@ -1,0 +1,3 @@
+org/camunda/bpm/getstarted/call/ServiceController.class
+org/camunda/bpm/getstarted/call/ServiceInvoker.class
+org/camunda/bpm/getstarted/call/DataEntity.class
